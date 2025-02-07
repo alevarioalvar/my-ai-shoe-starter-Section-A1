@@ -2,7 +2,7 @@
 
 ## Our Team
 
-TODO: Replace with your team members
+Armando Levario Alvarez
 
 ## How to run the streamlit app
 
